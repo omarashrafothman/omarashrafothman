@@ -2,6 +2,7 @@
 <br><br>
 <h1 align="left">Hi 👋, I'm Omar Asraf</h1>
 <h3 align="left">Passionate Front-end developer with expertise like HTML, CSS, SCSS , BOOTSTRAP and JavaScript, Always eager to learn and take on new challenges in the tech world.</h3>
+<br><br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
