@@ -3,11 +3,10 @@
 <h1 align="left">Hi 👋 , I'm Omar Asraf</h1>
 <h3 align="left">Passionate Front-end developer with expertise like HTML, CSS, SCSS , BOOTSTRAP and JavaScript, Always eager to learn and take on new challenges in the tech world.</h3>
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="450" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
 
-- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [Omar ashraf](omarashrafothman)
 
