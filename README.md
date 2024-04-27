@@ -18,6 +18,13 @@
 <br><br>     
 <br><br>     
 <br><br>    
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/omar-ashraf-othman-15b87a1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-ashraf-othman-15b87a1a8/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100030223352000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100030223352000" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maro.ashraf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maro.ashraf/" height="30" width="40" /></a>
+<a href="https://wa.me/+201552242010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+201552242010" height="30" width="40" /></a>
+</p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
