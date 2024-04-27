@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800">
 <br><br>
 <h1 align="center">Hi 👋, I'm Omar Asraf</h1>
 <h3 align="center">Passionate Front-end developer with expertise like HTML, CSS, SCSS , BOOTSTRAP and JavaScript, Always eager to learn and take on new challenges in the tech world.</h3>
