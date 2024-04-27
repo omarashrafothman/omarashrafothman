@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000" hight="100">
 <br><br>
-<h1 align="left">Hi 👋 , I'm Omar Asraf</h1>
+<h1 align="left">Hi 👋 , I'm Omar Ashraf</h1>
 <h3 align="left">Passionate Front-end developer with expertise like HTML, CSS, SCSS , BOOTSTRAP and JavaScript, Always eager to learn and take on new challenges in the tech world.</h3>
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" align="right">
